@@ -1,1 +1,1 @@
-Implementation of Python SQL HTTP API Request for syncing jobs in Data Warehousing Tools (this using Delman Data Lab)
+Implementation of Python SQL HTTP API Request for syncing jobs in Data Warehousing Tools (this using Delman Data Lab) Sync_App(1..2..3) is implementation of Async programming to ensure all schedule is syncrhonized properly
